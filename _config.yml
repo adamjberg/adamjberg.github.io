@@ -8,6 +8,10 @@ excerpt_separator: <!--more-->
 permalink: /:categories/:title
 
 theme: minima
+
+twitter_username: devtails
+github_username:  adamjberg
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
