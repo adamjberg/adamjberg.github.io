@@ -2,6 +2,7 @@
 layout: post
 title:  "Breadth-First Search a Walk in the Park: Chapter One"
 author: Adam Berg
+image: /assets/images/IMG_1161.jpg
 ---
 
 ![Dog Park]({{"/assets/images/IMG_1161.jpg" | relative_url}})
