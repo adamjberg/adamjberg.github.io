@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Breadth-First Search of my Brain: Chapter One"
+title:  "Breadth-First Search a Walk in the Park: Chapter One"
 author: Adam Berg
 ---
 
