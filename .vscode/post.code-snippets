@@ -27,13 +27,12 @@
 			"<!--more-->"
 		]
 	},
-	"Image": {
-		"scope": "markdown,md",
+	"Insert Markdown image": {
 		"prefix": "img",
 		"body": [
-			"<p align=\"center\">",
-   			"<img src=\"{{'/assets/images/$1' | relative_url}}\" alt=\"$2\"/>",
-			"</p>"
-		]
+			"![$2]({{\"/assets/images/$1\" | relative_url}})",
+			"*$2*"
+		],
+		"description": "Inserte markdown for image with caption"
 	}
 }
