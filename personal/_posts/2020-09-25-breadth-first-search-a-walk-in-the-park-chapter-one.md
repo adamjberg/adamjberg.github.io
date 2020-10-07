@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Breadth-First Search a Walk in the Park: Chapter One"
+title:  "Breadth-First Search a Walk in the Park"
 author: Adam Berg
 image: /assets/images/IMG_1161.jpg
 ---
@@ -69,7 +69,7 @@ They discuss the concept of a "lightning strike".  Something that draws a lot of
 My brain would like to introduce the next thread of this story. The idea that everything is the same and returns to the same place. Throughout this story, this idea will be conveyed both explicitly and implicitly. Keep an eye out for it in my writing and in the thoughts you inevitably have while reading.
 
 ### Find your why
-I've been doing a lot more reading than normal lately (it's becoming my normal, so that's probably the last time I can say that). [Start With Why](https://amzn.to/2EA5NuD) and [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team](https://amzn.to/3cyeuSP) are a couple of books I read earlier this year by Simon Sinek. The concept of category creation is similar to the principles behind Sinek discusses in these books. Both argue that having a solid reason for doing something will make you a leader in that area.  For Sinek, this is the "why".  For the pirates, this is the POV (Point of View).  See the [play bigger site](https://www.playbigger.com) for a better summary of what they're talking about.
+I've been doing a lot more reading than normal lately (it's becoming my normal, so that's probably the last time I can say that). [Start With Why](https://amzn.to/2EA5NuD) and [Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team](https://amzn.to/3cyeuSP) are a couple of books I read earlier this year by Simon Sinek. The concept of category creation is similar to the principles Sinek discusses in these books. Both argue that having a solid reason for doing something will make you a leader in that area.  For Sinek, this is the "why".  For the pirates, this is the POV (Point of View).  See the [play bigger site](https://www.playbigger.com) for a better summary of what they're talking about.
 
 ### Microsoft can’t escape appearance
 Across both books Microsoft is consistently presented as a company that is not a category king and lacking a strong vision. In these kinds of book Apple tends to be the company that receives praise for designing new categories. While I agree this is the social sentiment, I'm not sure if it will continue to hold true. I'm watching Microsoft make some moves that are pretty impressive.  On June 4, 2018, Microsoft [announced](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/) it was acquiring Github.  On March 16, 2020, just two years later, [Github buys npm](https://github.blog/2020-03-16-npm-is-joining-github/). Shortly after, Microsoft releases the [new Microsoft Edge browser](https://www.forbes.com/sites/kateoflahertyuk/2020/06/21/microsoft-issues-stunning-body-blow-to-chrome-with-bold-new-browser-moves/#3422621f5bb7) (now running based on the Chromium engine). This week they announced they were acquring [ZeniMax Media](https://news.microsoft.com/2020/09/21/microsoft-to-acquire-zenimax-media-and-its-game-publisher-bethesda-softworks/), primarily known for the development of The Elder Scrolls and Fallout video game franchises.  The next day they [announce](https://blogs.microsoft.com/blog/2020/09/22/microsoft-teams-up-with-openai-to-exclusively-license-gpt-3-language-model/) they teamed up with OpenAI to licence the GPT-3 language model.
@@ -117,7 +117,7 @@ I left the typo on this one. I was typing on my phone and cannot count the numbe
 
 I feel like I have two modes of operation.  [Thinking Fast and Slow](https://amzn.to/3iaPjGN) comes to mind here. In one, thoughts are just constantly surfaced (or re-surfaced) and I cannot keep my attention on any specific one of them. The other mode, is the one I'm in right now. I've now been sitting here for potentially an hour and a half.  It is now 9:30 and I haven't gotten up to use the washroom, thought about food, or been all that interested in whatever random rabbit hole mode #1 decides to conjure up. 
 
-I am very interested in how the brain actually works.  So much so, that prior to the walk I picked up [The Brain: A Very Short Introduction](https://amzn.to/3mQSsiJ). Ultimately, I'm interested in how we can learn from the brain for contructing Artifical Intelligence and drawing parallels to our brains based on the hardware we have created.
+I am very interested in how the brain actually works.  So much so, that prior to the walk I picked up [The Brain: A Very Short Introduction](https://amzn.to/3mQSsiJ). Ultimately, I'm interested in how we can learn from the brain for constructing Artifical Intelligence and drawing parallels to our brains based on the hardware we have created.
 
 ### Admit to marijuana?
 
@@ -173,7 +173,7 @@ I recently discovered that [Mozilla Thunderbird](https://www.thunderbird.net/en-
 *Thunder Birds*
 
 ### Actually feel calm
-Past me is calm, but current me just realized the amount of time that has elapsed between these thoughts is is tiny. I'm approaching the three hour mark of writing details, but my past self is still seated calmly on the bench. I have maybe been at the park for a few minutes, and it's taken me three hours to barely scratch the surface of what these condensed thoughts actually are.
+Past me is calm, but current me just realized the amount of time that has elapsed between these thoughts is tiny. I'm approaching the three hour mark of writing details, but my past self is still seated calmly on the bench. I have maybe been at the park for a few minutes, and it's taken me three hours to barely scratch the surface of what these condensed thoughts actually are.
 
 ### Shoulders relaxed
 
@@ -212,6 +212,10 @@ If you've ever followed a young child around, you probably also wonder why they 
 
 Now introducing an app idea, which if you're paying attention, still relates to everything else going on here.  Thought bank is really just a different term for journal. However, I like the slight difference in that it implies some form of banking. A journal is for your eyes only. A thought bank is somewhere you go to deposit, invest, and transfer thoughts. Despite what I just said above about not being able to follow stories, I love conversations. Unfortunately, to have fluent long lasting conversation the topics almost need to be identified ahead of time. The recent surge in podcasts has been interesting to watch. These are conversations of 20 minutes to up to 3 hours. I don't know about you, but if you recorded me in a conversation for 3 hours, there would only be about 10 minutes of me actually talking. The thought bank is where you put those thoughts to save for a rainy day when you have a conversation. 
 
-It is now 11:15 PM and it's time to bring the first part of this journey to a close. I knew this was going to be too long for one post, but I wasn't sure where the natural break was going to be. According to [this ](https://buffer.com/library/the-ideal-length-of-everything-online-according-to-science/#:~:text=The%20ideal%20length%20of%20a%20blog%20post%20is%207%20minutes%2C%201%2C600%20words&text=How%20long%20do%20readers%20stick,post%20is%20seven%20minutes%20long.) the ideal post length is 7 minutes or 1600 words. However, the [ideal chapter length for a book](https://wordcounter.net/blog/2017/02/15/102944_how-many-words-chapter.html#:~:text=Most%20agree%20that%20under%201%2C000,decide%20on%20are%20merely%20guidelines.) is somewhere between 3000-5000 words. We're now at ~3500 words and my re-read took about 7 minutes, so I'll call this chapter 1.
+It is now 11:15 PM and it's time to bring the first part of this journey to a close. I knew this was going to be too long for one post, but I wasn't sure where the natural break was going to be. According to [this ](https://buffer.com/library/the-ideal-length-of-everything-online-according-to-science/#:~:text=The%20ideal%20length%20of%20a%20blog%20post%20is%207%20minutes%2C%201%2C600%20words&text=How%20long%20do%20readers%20stick,post%20is%20seven%20minutes%20long.) the ideal post length is 7 minutes or 1600 words. However, the [ideal chapter length for a book](https://wordcounter.net/blog/2017/02/15/102944_how-many-words-chapter.html#:~:text=Most%20agree%20that%20under%201%2C000,decide%20on%20are%20merely%20guidelines.) is somewhere between 3000-5000 words. We're now at ~3500 words and my re-read took about 7 minutes, so I'll call this a wrap.
 
-Interestingly, this ends up being a natural place to stop for other reasons. At this point in my walk, I decided to leave the dog park and start heading home. In the current present, it is 11:15 PM and I am ready to call it a night. Stay tuned for the next chapter.
+Interestingly, this ends up being a natural place to stop for other reasons. At this point in my walk, I decided to leave the dog park and start heading home. In the current present, it is 11:15 PM and I am ready to call it a night.
+
+## Closing Thoughts
+
+If you're feeling a bit confused and frustrated right now, then I have successfully put you inside my brain for a brief moment. This was an experiment for myself and I'm glad you tagged along. 
