@@ -3,6 +3,7 @@ layout: post
 title:  "Breadth-First Search a Walk in the Park"
 author: Adam Berg
 image: /assets/images/IMG_1161.jpg
+tag: brainstorm
 ---
 
 ![Dog Park]({{"/assets/images/IMG_1161.jpg" | relative_url}})

@@ -34,6 +34,9 @@ I was convinced that I wouldn't get the job. The second round of applying would 
 
 ### iRok2
 
+https://twitter.com/irok2archive?lang=en
+https://irok2-blog.tumblr.com/
+
 ### Ayogo
 
 ### Electronic Arts
