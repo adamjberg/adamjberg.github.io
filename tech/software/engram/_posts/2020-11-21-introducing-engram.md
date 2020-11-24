@@ -44,7 +44,8 @@ This doesn't sound like much, but I'm already ~100 commits in on [Github](https:
  
 Interested? Here's what you can do to get involved: 
 
-- Follow along on [Twitter](https://twitter.com/devtails) or this site to keep up to date with progress.
+- Follow [@devtails](https://twitter.com/devtails) for development tales along the way
+- Follow [@engram_app](https://twitter.com/engram_app) for updates about the app
 - [Signup](https://engram.xyzdigital.com/) and [provide feedback](mailto:engram@xyzdigital.com) to help design the note taking app you want to use
 - Contribute to the development on [Github](https://github.com/adamjberg/engram)
 
