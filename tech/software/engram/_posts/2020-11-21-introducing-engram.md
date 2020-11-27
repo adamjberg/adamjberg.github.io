@@ -10,6 +10,8 @@ As I write this, British Columbia and many parts of the world are entering anoth
 
 <!--more-->
 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@engram_app/video/6899596476276559110" data-video-id="6899596476276559110" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@engram_app" href="https://www.tiktok.com/@engram_app">@engram_app</a> <p>Introducing engram a companion app for your  <a title="bulletjournal" target="_blank" href="https://www.tiktok.com/tag/bulletjournal">##bulletjournal</a> <a title="reactjs" target="_blank" href="https://www.tiktok.com/tag/reactjs">##reactjs</a> <a title="softwareengineer" target="_blank" href="https://www.tiktok.com/tag/softwareengineer">##softwareengineer</a> <a title="givingthanks" target="_blank" href="https://www.tiktok.com/tag/givingthanks">##GivingThanks</a></p> <a target="_blank" title="♬ Just the Two of Us - Grover Washington, Jr." href="https://www.tiktok.com/music/Just-the-Two-of-Us-227302284517642240">♬ Just the Two of Us - Grover Washington, Jr.</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
 Most years I make it to about February before I lose track of my New Years' Resolution. This year I set the goal to check in with myself on a weekly basis. Somewhat unintentionally, I found myself setting a new resolution each week. One week I realized how tired I was, so I shifted my bedtime earlier. Another week I challenged myself to finish a whole book (something that would previously take me months to accomplish). 
 
 <figure>
