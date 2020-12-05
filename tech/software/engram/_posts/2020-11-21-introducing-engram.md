@@ -6,7 +6,7 @@ author:
 
 <img alt="Engram Logo" src="{{'/assets/images/engram-logo.svg' | relative_url}}" height="300px"/>
 
-As I write this, British Columbia and many parts of the world are entering another lockdown to curb the second wave of COVID 19. We've found ourselves with an abnormal amount of free time, but how many of us have actually used that time to make the changes we said we were going to at the start of January 2020. I spent the last couple of years trying to find the app I want to use to manage my thoughts and reflection. I (un)fortunately came to the conclusion to build my own and am happy to introduce [Engram – an open source knowledge management tool](https://engram.xyzdigital.com).
+As I write this, British Columbia and many parts of the world are entering another lockdown to curb the second wave of COVID 19. We've found ourselves with an abnormal amount of free time, but how many of us have actually used that time to make the changes we said we were going to at the start of January 2020? I have spent the last couple of years trying to find the app I want to use to manage my thoughts and reflection. I (un)fortunately came to the conclusion to build my own and am happy to introduce [Engram – an open source knowledge management tool](https://engram.xyzdigital.com).
 
 <!--more-->
 
@@ -42,7 +42,7 @@ I sat down – actually [went for a walk](https://adam.xyzdigital.com/personal/b
 
 Like Twitter, but for your private thoughts
 
-This doesn't sound like much, but I'm already ~100 commits in on [Github](https://github.com/adamjberg/engram) and have been actively developing it for just over month. This is the start of something much bigger. 
+This doesn't sound like much, but I'm already ~100 commits in on [Github](https://github.com/adamjberg/engram) and have been actively developing it since mid October. This is the start of something much bigger. 
  
 Interested? Here's what you can do to get involved: 
 
