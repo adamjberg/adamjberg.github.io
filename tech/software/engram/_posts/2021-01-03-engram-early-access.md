@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  engram Early Access
+title:  engram - Open Source Knowledge Management App - Early Access
 author: Adam Berg
 ---
 
