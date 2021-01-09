@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Engram Early Access
+title:  engram Early Access
 author: Adam Berg
 ---
 
@@ -8,7 +8,11 @@ In my last post, [Introducing Engram](/tech/software/engram/introducing-engram),
 
 In this post, I will cover what you can currently do in the app, and where it will go from here.
 
-<button style="display: block; border: 1px solid #000066; border-radius: 8px; background-color: #000066; margin: 0 auto; padding: 16px; cursor: pointer;"><a href="https://engram.xyzdigital.com/signup" style="color: white; text-decoration: none; font-weight: bold;">Sign Up Now</a></button>
+<button style="display: block; border: 1px solid #053eba; border-radius: 8px; background-color: #053eba; margin: 0 auto; padding: 16px; cursor: pointer;"><a href="https://engram.xyzdigital.com/signup" style="color: white; text-decoration: none; font-weight: bold;">Sign Up Now</a></button>
+
+<iframe width="740" height="400" src="https://www.youtube.com/embed/KNWgkcEl2WY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figcaption>Introducing engram</figcaption>
 
 <!--more-->
 
