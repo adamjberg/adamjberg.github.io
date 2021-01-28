@@ -6,6 +6,12 @@ author: Adam Berg
 
 Today is [Bell Let's Talk Day](https://letstalk.bell.ca/en/bell-lets-talk-day). I've seen it more in the last few years, but it's taken a while for me to really understand what its purpose is and what "mental health" means.  After weathering at least three depressive episodes, I finally feel like I am on solid ground again.  I find we are afraid to share what we have learned and be vulnerable.  Our collective fear of sharing perpetuates a stigma that sharing negative personal experiences is not acceptable.  Today I am talking and I encourage you to do the same. 
 
+<div style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUY-rizctHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+Bell will donate 5 cents to mental health for every view of this video
+</div>
+
 <!--more-->
 
 
