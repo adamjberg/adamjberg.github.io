@@ -30,20 +30,21 @@ Trying to sleep when your knee is screaming at you is no easy task.  I dreaded b
 
 Unconsciously, I started drinking more coffee to compensate for this reduced wakefulness.  In the mornings this was great. I had energy, could focus, and no pain.  But afternoons led to a monster crash, my pain seemed to get worse, and my ability to fall asleep got even worse.  
 
-Me: "Ok Google, I have chronic pain and a sleeping problem, what should I do?" 
-Google: "Smoke some weed" 
+> Me: "Ok Google, I have chronic pain and a sleeping problem, what should I do?" 
+
+> Google: "Smoke some weed" 
 
 The first month or so was incredible.  Smoking weed relieved the knee pain, made it easier to fall asleep, and just overall seems to have made things better.  I was hooked. 
 
-Recently legalized here in Canada, we are many decades behind on education and research that we should have been doing.  If someone told you they got drank and got drunk every night, very few would hesitate to label this a drinking problem.  However, we're in a strange world where getting high every night is somehow not a smoking problem.  "Weed isn't addictive" is the common retort. 
+Recently legalized here in Canada, we are many decades behind on education and research that we should have been doing.  If someone told you they drank and got drunk every night, very few would hesitate to label this a drinking problem.  However, we're in a strange world where getting high every night is somehow not a smoking problem.  "Weed isn't addictive" is the common retort. 
 
 I absolutely became dependent on weed to get me through the night.  I don't think nightly is inherently a terrible thing, but being completely oblivious to that fact is concerning.  If you can't remember the last time your weren't high or are primarily looking forward to your next one, it's maybe time to start being aware of it.   
 
-The honeymoon phases slowly started wearing off as I found myself significantly more anxious about everything.  When I walked around I was worried if I had enough money to make it through the month (hint: I most definitely did).  I was worried that every coding change I made would result in catastrophic failure.  When something inevitably did fail I spent an hour crying on the couch like I had been diagnosed with terminal cancer. 
+The honeymoon phase slowly started wearing off as I found myself significantly more anxious about everything.  When I walked around I was worried if I had enough money to make it through the month (hint: I most definitely did).  I was worried that every coding change I made would result in catastrophic failure.  When something inevitably did fail I spent an hour crying on the couch like I had been diagnosed with terminal cancer. 
 
-I became less able to handle social situations and slowly withdrew from the people I knew.  I stopped communicating with family as I was incapable of handling a conversation while high.  In fairness, a lot of this is due to the stigma around smoking weed, that also should be banished.    
+I became less able to handle social situations and slowly withdrew from the people I knew.  I stopped communicating with friends and family as I was incapable of handling a conversation while high.  In fairness, a lot of this is due to the stigma around smoking weed, that also should be banished.    
 
-The pain, caffeine, weed, anxiety, and stress continued to build up inside of me.  I lost the ability to manage my emotions. In some cases just stopped speaking to people, in others completely pushed people away.  If you are one of those people, I'm sorry.   
+The pain, caffeine, weed, **anxiety**, and **stress** continued to build up inside of me.  I lost the ability to manage my emotions. In some cases just stopped speaking to people, in others completely pushed people away.  If you are one of those people, I'm sorry.   
 
 ## Maybe it's Time for a Change
 
@@ -54,7 +55,7 @@ The mental fog rolled in slowly.  So slowly that you I didn't realize that anyth
 
 The billboard changed to a Bell Let's Talk advertisement one day.  I don't think I consciously realized it, but it definitely triggered me realizing that I needed to talk about everything that I was going through.  I didn't know what was going on or how to even do it.   
 
-One day I had my parents over for dinner and I'm pretty sure I just started crying. Slowly I started actually talking to them.  None of this "how's the weather over there?" Stuff.  They have known me my entire life and are the only people I can trust have my best interests in mind.  I no longer knew myself, so I needed someone to help remind me. 
+One day I had my parents over for dinner and I'm pretty sure I just started crying. Slowly I started actually talking to them.  None of this "how's the weather over there?" stuff.  They have known me my entire life and are the only people I can trust have my best interests in mind.  I no longer knew myself, so I needed someone to help remind me. 
 
 This was a start, but it still took months from this point.  I went to see a psychologist. I got prescribed anti-depressants and started taking them.  After a difficult first few days cycling on to anti-depressants (they can initially make you feel worse), I started waking up not feeling terrible.  My knee pain also improved.  I still struggled to make it out of bed in the morning, but it was doable (I called in sick a few times for lack of ability).   
 
@@ -93,7 +94,7 @@ Having a personal why simplifies most aspects of life.  Like a child, we ask our
 
 ## Closing Thoughts 
 
-In a lot of ways this is all the tip of the iceberg.  There are all kinds of other twists and turns.  I'm still new to being publicly vulnerable and to writing in general. 
+In a lot of ways this is all the tip of the iceberg.  There are all kinds of other twists and turns.  I'm still new to being publicly vulnerable and to writing in general. Hopefully, I have managed to communicate something coherent along the way. (Do I need to explicity identify **insecurity** and **perfectionism** as the other horsemen of depression?)
 
 Everyone deserves a chance to be heard and can feel depressed.  We have unfortunately crafted a society where it is frowned upon to share these thoughts.  From what I have seen, men particularly struggle with sharing these thoughts. We are conditioned to believe that showing weakness is not masculine and instead choose to hide those feelings. These thoughts get bottled up until the bottle can hold no more and we explode (usually in anger).   
 
