@@ -6,7 +6,7 @@ author: Adam
 
 ![Today's engram](/assets/images/2021-05-31-mental-health-awareness-month.png)
 
-Today marks the end of [Mental Health Awareness Month](https://en.wikipedia.org/wiki/Mental_Health_Awareness_Month).  I shared some of [my own mental health struggles](/personal/2021-bell-lets-talk-day) earlier this year.  In the spirit of this years theme #Tools2Thrive, I would like to share [engram](https://engramhq.xyz/), a tool I've been building to promote better mental health.
+Today marks the end of [Mental Health Awareness Month](https://en.wikipedia.org/wiki/Mental_Health_Awareness_Month).  I shared some of [my own mental health struggles](/personal/2021-bell-lets-talk-day) earlier this year.  In the spirit of this years theme #Tools2Thrive, I would like to share [engram](https://engramhq.xyz?utm_medium=blog), a tool I've been building to promote better mental health.
 
 <!--more-->
 
@@ -20,4 +20,4 @@ This all started brewing before COVID, but once lockdowns started I knew that I 
 
 This is the start of a journey and I have no idea where it goes. I take a lot of comfort in the fact that I have full control of my data and what functionality is available.  If nothing else, I have a tool that I will use for the rest of my life and slowly refine it along the way. Maybe it's useful for you too or maybe hearing this inspires you to do the same.  
 
-If any of this piques your interest, please [sign up](https://engram.xyzdigital.com/signup) and give it a go. This is a hobby project, so set your expectations accordingly. If you have any thoughts or suggestions, feel free to shoot me a message or email.
+If any of this piques your interest, please [sign up](https://engram.xyzdigital.com/signup?utm_medium=blog) and give it a go. This is a hobby project, so set your expectations accordingly. If you have any thoughts or suggestions, feel free to shoot me a message or email.
