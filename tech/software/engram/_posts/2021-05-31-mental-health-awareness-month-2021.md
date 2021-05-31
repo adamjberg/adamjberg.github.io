@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mental Health Awareness Month 2021
+image: /assets/images/2021-05-31-mental-health-awareness-month.png
 author: Adam
 ---
 
