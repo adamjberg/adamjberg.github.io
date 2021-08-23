@@ -3,6 +3,10 @@ img {
     margin: 0 auto;
 }
 
+video {
+    width: 100%;
+}
+
 figcaption {
     text-align: center;
 }

@@ -32,4 +32,7 @@ The first tutorial only included a solid color.  I decided to extend it a bit by
 
 Early mistakes and decisions really define what your end product looks like.  Quite a few times I found myself with some poorly positioned vertices that I had to manually move back in place.  Having made it to the end, I can hopefully give myself a better starting point next time around.
 
-![Blender Dog](/assets/images/blender-dog.gif)
+<video controls>
+  <source src="/assets/images/blender-dog.mkv" type="video/mp4">
+</video>
+<!-- ![Blender Dog](/assets/images/blender-dog.mkv) -->
