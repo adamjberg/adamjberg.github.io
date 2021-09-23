@@ -40,11 +40,11 @@ Despite not accomplishing anything "productive", this is a surprisingly energy i
 
 ### Why do we even enter these thought loops in the first place?  
 
-I believe this is because we have the same curse as computers.  Our brains must always be processing something.  If you do not have an effective HLT instruction or strategy to escape busy waiting, this will continually post a problem for you.
+I believe this is because we have the same curse as computers.  Our brains must always be processing something.  If you do not have an effective HLT instruction or strategy to escape busy waiting, this will continually pose a problem for you.
 
 ### What Can I Do About It?
 
-In short, practice thinking about nothing. You want to slowly built your own personal HLT instruction.  One that uses less energy and leaves you more prepared for the next real task that comes your way.  
+In short, practice thinking about nothing. You want to slowly build your own personal HLT instruction.  One that uses less energy and leaves you more prepared for the next real task that comes your way.  
 
 In probably more familiar terms: meditate.  Explicit timed meditation is like weight training for your brain. The more you do it, the better you get.  It then provides you with the tools you need to use to either exit a future negative thought pattern or never enter that thought loop in the first place.
 
