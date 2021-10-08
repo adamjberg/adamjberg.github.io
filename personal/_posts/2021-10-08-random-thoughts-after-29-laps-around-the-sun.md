@@ -84,7 +84,7 @@ The latest project I've been working on is [Kaizen](https://kaizen.place).  A pl
 
 My software careeer began in video games. I thought I would find a creative outlet here and build whatever came to my imagination.  Instead I spent most of it on a one year release cycle that didn't leave much room for experimentation.
 
-I eventually transitioned to web development where things were almost the exact opposite.  Just because something worked one way one day, didn't mean to much about how it would work tomorrow. In four hours a new feature could be built out and released later that day.  Leading to near instant feedback.
+I eventually transitioned to web development where things were almost the exact opposite.  Just because something worked one way one day, didn't mean too much about how it would work tomorrow. In four hours a new feature could be built out and released later that day.  Leading to near instant feedback.
 
 Despite a musical background I would hardly call myself a musician.  But I can still imagine how stressful it would be to only have one chance to release an album.  After spending hours and hours putting together several songs, one day you pray that it's good enough and send it off to the world. As things currently are, that's it.  You may never change that song again, it's done.
 
@@ -100,7 +100,7 @@ My biggest overall complaint is leaning heavily on video content and then using 
 
 I don't even remotely have enough time to make something perfect to challenge some of what's already out there.  But, I can slowly try so I can better understand the challenges and eventually make a dent.  
 
-The first course will cover web development. Despite the plethora of [Medium](https://medium.com/) tutorials on every tiny thing, I haven't been able to pull together enough tutorials that truly encompasses what I believe someone should know as a junior to intermediate developer. Everything will be project based and will conclude with a functional website hosted on your own website.  This conveniently allows for automated validation that you completed the exercise.  Skimming is allowed, if you know what you're doing the project should be a breeze effectively allowing you to test into the more advanced courses.
+The first course will cover web development. Despite the plethora of [Medium](https://medium.com/) tutorials on every tiny thing, I haven't been able to pull together enough tutorials that truly encompasses what I believe someone should know as a junior to intermediate developer. Everything will be project based and will conclude with a functional website hosted on your own domain.  This conveniently allows for automated validation that you completed the exercise.  Skimming is allowed: if you know what you’re doing, the project should be a breeze - effectively allowing you to test into the more advanced courses. 
 
 You can find the first project [here](https://learn.xyzdigital.com/posts/hello-world-html-page).  Like everything else in my life, it's still a work in progress.  If you are genuinely interested in learning, shoot me a message and it will be motivation for me to continue to make progress.
 
