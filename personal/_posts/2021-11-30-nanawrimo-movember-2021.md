@@ -75,3 +75,4 @@ My strongest advice regarding the above is to filter out useless feedback. Ironi
 Today I'm letting go of the belief that society sees me as less of a man because I can't grow a full beard. I hope you'll take some time to think about what "societal belief" is weighing down on you and do the same.
 
 <img src="/assets/images/movember-2021.jpg" />
+<figcaption>Not bad for a month's work</figcaption>
