@@ -20,15 +20,16 @@ Below is a tally of my posts during the month and how many words each contained:
 | ----------- | ----------- |
 |   [The Night Technology Betrayed Me: A Halloween Horror Story](https://devtails.medium.com/the-night-technology-betrayed-me-a-halloween-horror-story-c85b91750835)    |    2395    |
 |  [Bundling Your Node.js Express App with esbuild](https://medium.com/@devtails/bundling-your-node-js-express-app-with-esbuild-5aecc36c5047)  |    484     |
-| Building My First Command Line Interface (CLI) with Rust | 1242
-| How to Convert Audio From Wav to MP3 in Node.js Using FFMpeg | 387
-| How to Convert Audio from wav to mp3 in JavaScript Using ffmpeg.wasm | 881
-| How to Build a Note Taking Command Line Application With Rust: Part 1 | 1924
-| How to Start Learning to Code | 658
-| How to Build Your First HTML Page | 525
-| Adding Interactivity to HTML With JavaScript | 1206
-| How to Set Up Server Side Rendering (SSR) With React and esbuild | 1597
-| **Total** | 11299
+| [Building My First Command Line Interface (CLI) with Rust](https://medium.com/geekculture/building-my-first-command-line-interface-cli-with-rust-b6beb9c284e0) | 1242
+| [How to Convert Audio From Wav to MP3 in Node.js Using FFMpeg](https://devtails.medium.com/how-to-convert-audio-from-wav-to-mp3-in-node-js-using-ffmpeg-e5cb4af2da6) | 387
+| [How to Convert Audio from wav to mp3 in JavaScript Using ffmpeg.wasm](https://devtails.medium.com/how-to-convert-audio-from-wav-to-mp3-in-javascript-using-ffmpeg-wasm-5dcd07a11821) | 881
+| [How to Build a Note Taking Command Line Application With Rust: Part 1](https://devtails.medium.com/how-to-build-a-note-taking-command-line-application-with-rust-part-1-34b9cd5be6b9) | 1924
+| [How to Start Learning to Code](https://devtails.xyz/how-to-start-learning-to-code) | 658
+| [How to Build Your First HTML Page](https://devtails.xyz/how-to-build-your-first-html-page) | 525
+| [Adding Interactivity to HTML With JavaScript](https://devtails.xyz/adding-interactivity-to-html-with-javascript) | 1206
+| [How to Set Up Server Side Rendering (SSR) With React and esbuild](https://devtails.xyz/how-to-set-up-server-side-rendering-ssr-with-react-and-esbuild) | 1597
+| This Post | 1350
+| **Total** | 12649
 
 There are still quite a few pieces that are a work in progress, but these are ones that came together 100%.
 
