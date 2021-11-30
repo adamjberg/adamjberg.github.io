@@ -70,7 +70,7 @@ I bring this up, because this is a huge area where everyone needs to be doing a 
 
 To be clear, being labeled or being gay is not a negative thing. This is just one of many ways people express: "you do not meet social norms". If something doesn't align with our current belief system, we immediately label it as wrong or bad.  We all have a lot of work to do to come to terms with the fact that we're all different.
 
-My strongest advice regarding the above is to filter out useless feedback. Ironically, the societal values you "feel" all around you are more something you choose to believe. Our brains hyperfocus on the negative making it feel like the negative if much bigger than it actually is. If you believe society is a certain way, then it will continue to be that way. Both in your mind and in those around you. 
+My strongest advice regarding the above is to filter out useless feedback. Ironically, the societal values you "feel" all around you are more something you choose to believe. Our brains hyperfocus on the negative making it feel like the negative is much bigger than it actually is. If you believe society is a certain way, then it will continue to be that way. Both in your mind and in those around you. 
 
 Today I'm letting go of the belief that society sees me as less of a man because I can't grow a full beard. I hope you'll take some time to think about what "societal belief" is weighing down on you and do the same.
 
