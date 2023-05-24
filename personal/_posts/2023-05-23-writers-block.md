@@ -39,7 +39,7 @@ This project has since grown it's own wings and is currently being piloted in Wi
 
 ## [EventFare - Steve McQueen Car Show](https://map.stevemcqueencarshow.com/event/643d761143d16734d28cf18e/map)
 
-Last Spring I was coerced (I mean politely asked) to take my dad's place as photographer for the [2022 Steve McQueen Rally](https://stevemcqueencarshow.com/2022-rally-images-by-first-place-visuals/).  As one does, I got to talking with the organizers about how some kind of software could be made to improve the experience for everyone. It's not perfect, nor is it fully complete, but I will be at the show to get a better sense of how it's working and what other needs the event has.
+Last Spring I was coerced (I mean politely asked) to take my dad's place as photographer for the [2022 Steve McQueen Rally](https://stevemcqueencarshow.com/steve-mcqueen-rally/videos/).  As one does, I got to talking with the organizers about how some kind of software could be made to improve the experience for everyone. It's not perfect, nor is it fully complete, but I will be at the show to get a better sense of how it's working and what other needs the event has.
 
 ## [Hoozin](https://www.hoozin.co/)
 
